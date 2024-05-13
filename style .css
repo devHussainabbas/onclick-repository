@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+.sec{
+    margin-left: 500px;
+    
+    margin-top: 200px;
+    line-height: 20px;
+}
+p{
+    border: 2px solid purple;
+    width: 40%;
+    align-items: center;
+    padding: 10px 10px;
+    text-align: center;
+}
+button{
+    
+    padding: 7px 23px;
+    border-radius: 5px;
+    color: white;
+    /* margin: 10px; */
+}
+.sec1{
+    margin-left: 520px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+
+.btn1{
+    background-color: blue;
+}
+.btn2{
+    background-color: orangered;
+}
+.btn3{
+    background-color: green;
+}
+.btn4{
+    background-color: purple;
+}
